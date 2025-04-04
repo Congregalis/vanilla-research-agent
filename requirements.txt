@@ -1,0 +1,6 @@
+streamlit>=1.31.0
+zhipuai>=1.0.7
+python-dotenv>=1.0.0
+requests>=2.31.0
+tavily-python>=0.2.3
+google-genai
